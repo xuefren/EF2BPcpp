@@ -1,0 +1,27 @@
+﻿  EF2BP_sim.cpp
+  ode_cal.cpp
+D:\Eigen\rehuel-master\my_timer.hpp(136,17): error C3646: “get_tic”: 未知重写说明符
+D:\Eigen\rehuel-master\my_timer.hpp(136,17): error C2059: 语法错误:“(”
+D:\Eigen\rehuel-master\my_timer.hpp(136,26): error C2334: “{”的前面有意外标记；跳过明显的函数体
+D:\Eigen\rehuel-master\my_timer.hpp(142,35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Eigen\rehuel-master\my_timer.hpp(142,35): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Eigen\rehuel-master\my_timer.hpp(154,15): error C3646: “t_tic”: 未知重写说明符
+D:\Eigen\rehuel-master\my_timer.hpp(154,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Eigen\rehuel-master\my_timer.hpp(47,35): error C2614: “my_timer_linux”: 非法的成员初始化:“t_tic”不是基或成员
+D:\Eigen\rehuel-master\my_timer.hpp(56,23): error C2614: “my_timer_linux”: 非法的成员初始化:“t_tic”不是基或成员
+D:\Eigen\rehuel-master\my_timer.hpp(64,18): error C2065: “t_tic”: 未声明的标识符
+D:\Eigen\rehuel-master\my_timer.hpp(64,4): error C3861: “gettimeofday”: 找不到标识符
+D:\Eigen\rehuel-master\my_timer.hpp(78,34): error C2065: “t_tic”: 未声明的标识符
+D:\Eigen\rehuel-master\my_timer.hpp(144,11): error C2146: 语法错误: 缺少“;”(在标识符“t_toc”的前面)
+D:\Eigen\rehuel-master\my_timer.hpp(144,11): error C2065: “t_toc”: 未声明的标识符
+D:\Eigen\rehuel-master\my_timer.hpp(145,17): error C2065: “t_toc”: 未声明的标识符
+D:\Eigen\rehuel-master\my_timer.hpp(145,3): error C3861: “gettimeofday”: 找不到标识符
+D:\Eigen\rehuel-master\my_timer.hpp(147,11): error C2065: “t_toc”: 未声明的标识符
+D:\Eigen\rehuel-master\my_timer.hpp(147,27): error C2065: “user_tic”: 未声明的标识符
+D:\Eigen\rehuel-master\my_timer.hpp(148,5): error C2065: “t_toc”: 未声明的标识符
+D:\Eigen\rehuel-master\my_timer.hpp(148,21): error C2065: “user_tic”: 未声明的标识符
+D:\Eigen\rehuel-master\my_timer.hpp(161,17): error C2065: “t_tic”: 未声明的标识符
+D:\Eigen\rehuel-master\my_timer.hpp(161,3): error C3861: “gettimeofday”: 找不到标识符
+  WARNING: use of OpenMP disabled; compiler support for OpenMP 3.1+ not detected
+D:\Eigen\rehuel-master\irk.hpp(507,10): error C2760: 语法错误: 意外标记 "标识符"，应为 ";"
+  正在生成代码...
